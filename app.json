@@ -85,12 +85,12 @@
       },
       "UPSTREAM_REPO": {
         "description": "لا تغيرهــا",
-        "value": "https://github.com/ALSAROT8754/Zelzal",
+        "value": "https://github.com/asaaqa/kiobmzek",
         "required": true
       },
       "UPSTREAM_BRANCH": {
         "description": "لا تغيرهــا",
-        "value": "master",
+        "value": "Zade",
         "required": true
       }
     },
