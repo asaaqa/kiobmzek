@@ -6,8 +6,8 @@
 
 # Bot Commands
 PING_COMMAND : ["ping", "بنج"]
-START_COMMAND : ["startt", "/startt"]
-HELP_COMMAND : ["help", "هيلب"]
+START_COMMAND : ["start", "/start"]
+HELP_COMMAND : ["help", "ميوزك"]
 SETTINGS_COMMAND : ["اعدادات البوت", "اعداد", "الاعدادت", "/اعدادات", "/الاعدادات", "/setting"]
 RELOAD_COMMAND : ["admincache", "reload", "ريلود"]
 GSTATS_COMMAND : ["gstats","الاحصاائيات","احصائيات"]
@@ -19,7 +19,7 @@ PLAY_COMMAND : ["play", "vplay", "cplay", "/cvplay", "playforce", "vplayforce", 
 PLAY_COMMAND_chh : ["تشغيل", "فيديو"]
 STOP_COMMAND_chh : ["ايقاف"]
 PLAYMODE_COMMAND : ["playmode", "/وضع شغل", "وضع شغل", "/playmode"]
-CHANNELPLAY_COMMAND : ["channelplay", "قناه"]
+CHANNELPLAY_COMMAND : ["channelplay", "ش قناه"]
 STREAM_COMMAND : ["stream", "cstream", "streamforce", "لايف", "ق لايف"]
 
 #Playlists Command
