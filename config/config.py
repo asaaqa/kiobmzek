@@ -47,7 +47,7 @@ MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","ZELZAL")
 
 # Your User ID.
 OWNER_ID = list(
-  map(int, getenv("OWNER_ID", "").split())) + [1895219306,925972505,5746412340]
+  map(int, getenv("OWNER_ID", "").split())) + [1895219306,6218149232]
  # Input type must be interger
 
 # Get it from http://dashboard.heroku.com/account
@@ -59,9 +59,9 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/ALSAROT8754/Zelzal",
+    "https://github.com/asaaqa/kiobmzek",
 )
-UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
+UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Zade")
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
