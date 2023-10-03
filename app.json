@@ -58,16 +58,6 @@
         "value": "",
         "required": true
       },
-      "STRING_SESSION2": {
-        "description": "حط كود جلسة الحساب المساعد الاحتياطي بايروجرام v1 او اتركها كما هي",
-        "value": "None",
-        "required": false
-      },
-      "STRING_SESSION3": {
-        "description": "حط كود جلسة الحساب المساعد الاحتياطي بايروجرام v1 او اتركها كما هي",
-        "value": "None",
-        "required": false
-      },
       "HEROKU_API_KEY": {
         "description": "مفتاح حساب هيروكو الخاص بك",
         "value": "",
@@ -85,12 +75,12 @@
       },
       "UPSTREAM_REPO": {
         "description": "لا تغيرهــا",
-        "value": "https://github.com/ALSAROT8754/Zelzal",
+        "value": "https://github.com/asaaqa/kiobmzek",
         "required": true
       },
       "UPSTREAM_BRANCH": {
         "description": "لا تغيرهــا",
-        "value": "master",
+        "value": "Zade",
         "required": true
       }
     },
